@@ -96,7 +96,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Geeks for Geeks'),
+          title: Text('Quiz'),
           backgroundColor: Color(0xFF00E676),
         ),
         body: Padding(
